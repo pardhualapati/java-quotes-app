@@ -1,6 +1,6 @@
 #1. Base Image (OS)
 
-FROM openjdk:17-jdk-alphine
+FROM openjdk:17-jdk-alpine
 
 
 # 2. working directory for the app setting the owrkdir in conmtainer
