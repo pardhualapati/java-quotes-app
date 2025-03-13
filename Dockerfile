@@ -3,7 +3,7 @@
 FROM openjdk:17-jdk-alphine
 
 
-# 2. working directory for the app
+# 2. working directory for the app setting the owrkdir in conmtainer
 
 WORKDIR /app 
 
